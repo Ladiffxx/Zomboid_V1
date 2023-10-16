@@ -152,7 +152,7 @@
             this.laser = false;
             break;
           case "Laser Gun":
-            this.magSize = Infinity;
+            this.magSize = 10;
             this.barrelSize = 2;
             this.bulletSize = 2;
             this.girth = 1.5;
